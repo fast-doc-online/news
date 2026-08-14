@@ -11,7 +11,7 @@
 
     <!-- صفحة حادث سيليسبرج -->
     <url>
-        <loc>https://fast-doc-online.github.io/news/unfall.html</loc>
+        <loc>https://fast-doc-online.github.io/news/unfall</loc>
         <lastmod>2026-08-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.9</priority>
@@ -19,7 +19,7 @@
 
     <!-- صفحة القوة الشرائية في هولندا -->
     <url>
-        <loc>https://fast-doc-online.github.io/news/koopkracht.html</loc>
+        <loc>https://fast-doc-online.github.io/news/koopkracht</loc>
         <lastmod>2026-08-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -27,7 +27,7 @@
 
     <!-- صفحة كسوف الشمس -->
     <url>
-        <loc>https://fast-doc-online.github.io/news/sonnenfinsternis.html</loc>
+        <loc>https://fast-doc-online.github.io/news/sonnenfinsternis</loc>
         <lastmod>2026-08-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -35,7 +35,7 @@
 
     <!-- صفحة نيكول كريمرز -->
     <url>
-        <loc>https://fast-doc-online.github.io/news/nicol-kremers.html</loc>
+        <loc>https://fast-doc-online.github.io/news/nicol-kremers</loc>
         <lastmod>2026-08-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -43,7 +43,7 @@
 
     <!-- صفحة غابة هورتجن -->
     <url>
-        <loc>https://fast-doc-online.github.io/news/huertgenwald.html</loc>
+        <loc>https://fast-doc-online.github.io/news/huertgenwald</loc>
         <lastmod>2026-08-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -51,7 +51,7 @@
 
     <!-- صفحة طقس كاخيلمان -->
     <url>
-        <loc>https://fast-doc-online.github.io/news/kachelmann.html</loc>
+        <loc>https://fast-doc-online.github.io/news/kachelmann</loc>
         <lastmod>2026-08-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
@@ -59,7 +59,7 @@
 
     <!-- صفحة الطيران -->
     <url>
-        <loc>https://fast-doc-online.github.io/news/flugzeug.html</loc>
+        <loc>https://fast-doc-online.github.io/news/flugzeug</loc>
         <lastmod>2026-08-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
@@ -67,7 +67,7 @@
 
     <!-- صفحة ماغدالينا نوينر -->
     <url>
-        <loc>https://fast-doc-online.github.io/news/magdalena-neuner.html</loc>
+        <loc>https://fast-doc-online.github.io/news/magdalena-neuner</loc>
         <lastmod>2026-08-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -75,7 +75,7 @@
 
     <!-- صفحة D23 -->
     <url>
-        <loc>https://fast-doc-online.github.io/news/d23.html</loc>
+        <loc>https://fast-doc-online.github.io/news/d23</loc>
         <lastmod>2026-08-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
