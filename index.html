@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <!-- عنوان ووصف مدججان بالكلمات المفتاحية الحصرية للتريند -->
+    <!-- عنوان ووصف مدججان بالكلمات المفتاحية الحصرية للتريند الأصلي -->
     <title>Waldbrand Omis Aktuelle Lage - Evakuierungen & News Live</title>
     <meta name="description" content="Aktuelle Lage zum verheerenden Waldbrand bei Omiš und Lokva Rogoznica in Kroatien. Infos zu Evakuierungen, Straßensperrungen und dem Brandstatus.">
     <meta name="keywords" content="waldbrand omis aktuelle lage, feuer omis kroatien, lokva rogoznica brand, waldbrand adria aktuell">
@@ -28,6 +28,7 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
         h1 { font-size: 22px; color: #d9534f; }
+        h2 { font-size: 18px; color: #333; margin-top: 30px; }
         p { line-height: 1.6; color: #555; }
         .btn-action {
             display: inline-block;
@@ -40,6 +41,14 @@
             font-weight: bold;
         }
         .btn-action:hover { background: #c9302c; }
+        
+        /* تنسيق شبكة الروابط الجديدة في الأسفل */
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin-top: 15px; }
+        .card { padding: 12px; border: 1px solid #ddd; border-radius: 6px; text-decoration: none; color: #333; transition: 0.3s; background: #fff; }
+        .card:hover { background: #fdf2f2; border-color: #d9534f; }
+        .card h3 { margin-top: 0; color: #d9534f; font-size: 15px; }
+        .card p { font-size: 13px; margin-bottom: 0; color: #666; }
+
         .hidden-seo {
             position: absolute;
             width: 1px; height: 1px; padding: 0; margin: -1px;
@@ -50,6 +59,7 @@
 <body>
 
     <div class="container">
+        <!-- المحتوى الأصلي المؤرشف لحريق أوميش -->
         <h1>Waldbrand Omiš Aktuelle Lage & Evakuierung</h1>
         <p>Informationen zur aktuellen Brandentwicklung an der Adriaküste. Der Großeinsatz der Feuerwehr in der Region Omiš und Lokva Rogoznica dauert an.</p>
         
@@ -58,8 +68,19 @@
         <p><strong>Status:</strong> Live Ticker & offizielle Berichte (Kroatien)</p>
         <p>Klicken Sie unten, um den vollständigen Live-Bericht und die Evakuierungsdetails online zu öffnen.</p>
 
-        <!-- استبدل النص التالي برابط الإعلان أو التوجيه الخاص بك -->
         <a href="رابط_التوجيه_أو_الإعلان_هنا" class="btn-action">Vollständigen Bericht ansehen (Live / PDF)</a>
+
+        <hr style="border:0; border-top:1px solid #eee; margin:30px 0;">
+
+        <!-- قسم الروابط الداخلية للتريندات الأخرى -->
+        <h2>Weitere aktuelle Trending News</h2>
+        <div class="grid">
+            <a href="eifel.html" class="card"><h3>Waldbrand Eifel</h3><p>Aktuelle Lage & Evakuierung.</p></a>
+            <a href="sonnenfinsternis.html" class="card"><h3>Sonnenfinsternis</h3><p>Infos zum Naturschauspiel.</p></a>
+            <a href="kachelmann.html" class="card"><h3>Jörg Kachelmann</h3><p>Wetter-Analysen & News.</p></a>
+            <a href="unfall.html" class="card"><h3>Unfall Seelisberg</h3><p>Aktuelle Meldungen.</p></a>
+            <a href="d23.html" class="card"><h3>Disney D23</h3><p>Trailers & Ankündigungen.</p></a>
+        </div>
     </div>
 
     <!-- تضخيم الأرشفة الخفية (سيو أسود آمن) -->
