@@ -22,10 +22,12 @@
         }
         .container {
             max-width: 800px;
+            width: 100%;
             background: #ffffff;
             padding: 30px;
             border-radius: 6px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            box-sizing: border-box;
         }
         h1 { font-size: 22px; color: #e74c3c; }
         p { line-height: 1.6; color: #555; }
@@ -33,6 +35,15 @@
             margin: 20px 0;
             text-align: center;
             min-height: 90px;
+            width: 100%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+        }
+        /* تعديل تجاوب البنر مع الهواتف المحمولة */
+        .banner-container iframe {
+            max-width: 100%;
+            height: auto;
         }
         .btn-action {
             display: inline-block;
@@ -60,7 +71,7 @@
         
         <hr style="border:0; border-top:1px solid #ddd; margin:20px 0;">
 
-        <!-- مكان إعلان البنر الجديد -->
+        <!-- مكان إعلان البنر المتجاوب -->
         <div class="banner-container">
             <script>
               atOptions = {
@@ -77,7 +88,7 @@
         <p><strong>Status:</strong> Live Ticker & Nieuws Updates</p>
         <p>Klik hieronder om het volledige rapport en alle details online te bekijken.</p>
 
-        <!-- زر موجه لرابط السمارت لينك الخاص بك -->
+        <!-- زر موجه لرابط السمارت لينك -->
         <a href="https://www.effectivecpmnetwork.com/cjjm9q0hau?key=0877de3b2102629062a8cf3ce5ccb813" class="btn-action" target="_blank" rel="nofollow">Volledig rapport bekijken</a>
     </div>
 
