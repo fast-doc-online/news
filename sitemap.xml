@@ -17,6 +17,14 @@
         <priority>0.9</priority>
     </url>
 
+    <!-- صفحة إيفل -->
+    <url>
+        <loc>https://fast-doc-online.github.io/news/eifel</loc>
+        <lastmod>2026-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
     <!-- صفحة القوة الشرائية في هولندا -->
     <url>
         <loc>https://fast-doc-online.github.io/news/koopkracht</loc>
