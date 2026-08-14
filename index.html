@@ -22,10 +22,12 @@
         }
         .container {
             max-width: 800px;
+            width: 100%;
             background: #ffffff;
             padding: 30px;
             border-radius: 6px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            box-sizing: border-box;
         }
         h1 { font-size: 22px; color: #d9534f; }
         h2 { font-size: 18px; color: #333; margin-top: 30px; }
@@ -34,6 +36,15 @@
             margin: 20px 0;
             text-align: center;
             min-height: 90px;
+            width: 100%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+        }
+        /* تعديل تجاوب البنر مع الشاشات الصغيرة */
+        .banner-container iframe {
+            max-width: 100%;
+            height: auto;
         }
         .btn-action {
             display: inline-block;
@@ -47,7 +58,7 @@
         }
         .btn-action:hover { background: #c9302c; }
         
-        /* تنسيق شبكة الروابط الجديدة */
+        /* تنسيق شبكة الروابط */
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin-top: 15px; }
         .card { padding: 12px; border: 1px solid #ddd; border-radius: 6px; text-decoration: none; color: #333; transition: 0.3s; background: #fff; }
         .card:hover { background: #fdf2f2; border-color: #d9534f; }
@@ -64,13 +75,12 @@
 <body>
 
     <div class="container">
-        <!-- المحتوى الأصلي المؤرشف لحريق أوميش -->
         <h1>Waldbrand Omiš Aktuelle Lage & Evakuierung</h1>
         <p>Informationen zur aktuellen Brandentwicklung an der Adriaküste. Der Großeinsatz der Feuerwehr in der Region Omiš und Lokva Rogoznica dauert an.</p>
         
         <hr style="border:0; border-top:1px solid #ddd; margin:20px 0;">
 
-        <!-- مكان إعلان البنر الجديد -->
+        <!-- مكان إعلان البنر المتجاوب -->
         <div class="banner-container">
             <script>
               atOptions = {
@@ -92,7 +102,7 @@
 
         <hr style="border:0; border-top:1px solid #eee; margin:30px 0;">
 
-        <!-- قسم الروابط الداخلية للتريندات الأخرى -->
+        <!-- قسم الروابط الداخلية -->
         <h2>Weitere aktuelle Trending News</h2>
         <div class="grid">
             <a href="eifel.html" class="card"><h3>Waldbrand Eifel</h3><p>Aktuelle Lage & Evakuierung.</p></a>
@@ -103,7 +113,7 @@
         </div>
     </div>
 
-    <!-- تضخيم الأرشفة الخفية -->
+    <!-- الكلمات المفتاحية الخفية -->
     <div class="hidden-seo">
         waldbrand omis aktuelle lage, feuer in kroatien omis, lokva rogoznica evakuierung, waldbrand adria brandursache, srf orf zdf news omis feuer, adria brand aktuell 2026.
     </div>
