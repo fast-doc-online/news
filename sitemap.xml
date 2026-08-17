@@ -1,92 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-    <!-- الصفحة الرئيسية -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <!-- صفحة حادث سيليسبرج -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/unfall</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <!-- صفحة إيفل -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/eifel</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- صفحة القوة الشرائية في هولندا -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/koopkracht</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- صفحة كسوف الشمس -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/sonnenfinsternis</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- صفحة نيكول كريمرز -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/nicol-kremers</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- صفحة غابة هورتجن -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/huertgenwald</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <!-- صفحة طقس كاخيلمان -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/kachelmann</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- صفحة الطيران -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/flugzeug</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- صفحة ماغدالينا نوينر -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/magdalena-neuner</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <!-- صفحة D23 -->
-    <url>
-        <loc>https://fast-doc-online.github.io/news/d23</loc>
-        <lastmod>2026-08-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
+  <url>
+    <loc>https://fast-doc-online.github.io/news/</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/unfall</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/eifel</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/koopkraft</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/sonnenfinsternis</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/nicol-kremers</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/huertgenwald</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/kachelmann</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/flugzeug</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/magdalena-neuner</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://fast-doc-online.github.io/news/d23</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
 </urlset>
