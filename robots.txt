@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# رابط خريطة الموقع (Sitemap) لتسهيل الأرشفة التلقائية
-Sitemap: https://fast-doc-online.github.io/news/sitemap.xml
+Sitemap: https://news.fastdoc.workers.dev/sitemap.xml
